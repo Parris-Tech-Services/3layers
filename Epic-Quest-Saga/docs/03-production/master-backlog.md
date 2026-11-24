@@ -6,7 +6,7 @@ Prioritized backlog for building `Epic-Quest-Saga` to a professional production 
 
 - [x] Add `schemaVersion` to persisted app state.
 - [x] Implement migration pipeline for persisted state changes.
-- [ ] Add canonical conflict marker model for contradictory facts.
+- [x] Add canonical conflict marker model for contradictory facts.
 - [ ] Add DM-private output guard in all player-facing render paths.
 - [x] Add export/import backup tooling for `continuity-state`.
 
@@ -17,7 +17,7 @@ Prioritized backlog for building `Epic-Quest-Saga` to a professional production 
 - [ ] Build parser for `ChatGPThandover27042026.md`.
 - [x] Add "session readiness" page (open quests, unresolved canon, resource status).
 - [x] Add "canon audit" view (filter by status and layer).
-- [ ] Add discrepancy panel for build/ruleset conflicts.
+- [x] Add discrepancy panel for build/ruleset conflicts.
 
 ## P2 - Medium
 
